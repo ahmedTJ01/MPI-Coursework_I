@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">REDA App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_id">400776573805633</string>
+    <string name="facebook_app_id">400776573805633</string>
+    <string name="fb_login_protocol_scheme">fb400776573805633</string>
+
+</resources>
