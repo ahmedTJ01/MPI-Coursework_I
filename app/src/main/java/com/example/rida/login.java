@@ -31,6 +31,7 @@ public class login extends AppCompatActivity {
 
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -64,6 +65,7 @@ public class login extends AppCompatActivity {
         _btnlogin = (Button) findViewById(R.id.btnlogin);
         _email = (EditText) findViewById(R.id.email);
         _password = (EditText) findViewById(R.id.password);
+
 
         _btnlogin.setOnClickListener(new View.OnClickListener() {
             @Override
